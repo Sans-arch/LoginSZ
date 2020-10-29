@@ -1,0 +1,55 @@
+.cont2 {
+    margin-left: 550px;
+    margin-bottom: 80px;
+}
+
+ul {
+    list-style-type: none;
+}
+
+#li1 {
+    margin-bottom: 20px;
+}
+
+
+/* Botão de Login pequeno acima */
+#butLog{
+    appearance:none;
+  -webkit-appearance:none;
+
+  margin-top: 0px;
+  padding:3px;
+  border:none;
+  background-color:#eb5b24;
+  color:#fff;
+  font-weight:600;
+  border-radius:5px;
+  width:70px;
+  margin-left: 10px;
+  cursor: alias;
+}
+
+#butLog:hover{
+    background-color: #0a3150;
+}
+
+/* Botão de Cadastro pequeno acima */
+#butCad{
+    appearance:none;
+  -webkit-appearance:none;
+
+  margin-top: 0px;
+  padding:3px;
+  border:none;
+  background-color:#fc1b5f;
+  color:#fff;
+  font-weight:600;
+  border-radius:5px;
+  width:70px;
+  margin-left: 10px;
+  cursor: alias;
+}
+
+#butCad:hover {
+    background-color: #a5e519;
+}

@@ -1,0 +1,89 @@
+/* Campo de Nome */
+input[type=text]{
+    padding: 10px;
+    padding-right: 150px;
+    background-color: white;
+    color: black;
+    border-radius: 10px;
+    border: none;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    width: 100px;
+}
+
+/* Campo de Senha */
+input[type=password]{
+    padding: 10px;
+    padding-right: 150px;
+    background-color: white;
+    color: black;
+    border-radius: 10px;
+    width: 100px;
+    border: none;
+    margin-top: 10px;
+    margin-left: 300px;
+}
+
+/* Botão de Enviar, Submit */
+#enviar {
+  appearance:none;
+  -webkit-appearance:none;
+
+  margin-top: 50px;
+  padding:10px;
+  border:none;
+  background-color:#f59351;
+  color:#fff;
+  font-weight:600;
+  border-radius:5px;
+  width:100px;
+  margin-left: 125px;
+  cursor: alias;
+}
+
+#enviar:hover{
+    background-color:#c9504a;
+    cursor: alias;
+}
+
+/* Título de Login */
+#headerLogin {
+    margin-left: 150px;
+}
+
+/* Container com todos os elementos */
+.login-form {
+    margin-left: 530px;
+    margin-top: 200px;
+}
+
+/* Customização dos Labels */
+#labelNome{
+    margin-right: 10px;
+}
+
+#labelSenha{
+    margin-right: 8px;
+}
+
+
+/* Botão de Cadastrar, caso n tenha login */
+#cad{
+    appearance:none;
+    -webkit-appearance:none;
+  
+    margin-top: 50px;
+    padding:10px;
+    border:none;
+    background-color:#9000a8;
+    color:#fff;
+    font-weight:600;
+    border-radius:5px;
+    width:100px;
+    margin-left: 15px;
+    cursor: alias;
+}
+
+#cad:hover{
+    background-color: 	#a800d8;
+}
