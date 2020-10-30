@@ -1,0 +1,12 @@
+#sair {
+    background-color:#B81365;
+    margin-left: 730px;
+    padding: 10px;
+    padding-left: 10px;
+    color: #fff;
+    border: none;
+}
+
+#sair:hover{
+    background:  #6A0136;
+}

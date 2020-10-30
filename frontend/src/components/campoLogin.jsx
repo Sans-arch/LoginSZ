@@ -30,6 +30,7 @@ export default class CampoLogin extends Component {
     entrar() {
         if(this.state.email === 'neymar' && this.state.password === '1234' ){
             alert('Parabéns, você foi logado com sucesso!')
+            window.location.href = '#/home'
         } else {
             alert('Usuário ou senha incorretos!')
         }
