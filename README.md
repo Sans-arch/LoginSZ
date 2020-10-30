@@ -24,3 +24,8 @@ Necessitamos para um novo desenvolvimento um sistema que possuirá uma tela de L
 # Requisito fundamental
 - A comunicação deverá ser feita entre o frontend e o brackend conforme as requisições, como cadastro de usuário e login, também deverá manter o usuário logado por até 10 minutos, assim controlando se o usuário está logado, ou seja, após efetuado o login. Será feito um teste para a página ser recarregada com um F5 ou Atualizar e deverá apresentar a página Home com os dados do usuário logado.
 - Após 10 minutos de inatividade o usuário será deslogado e deverá apresentar a página de Login
+
+
+INFOS:
+- Faça login com o usuário: neymar
+- senha: 1234
