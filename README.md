@@ -24,9 +24,12 @@ Necessitamos para um novo desenvolvimento um sistema que possuirá uma tela de L
 # Requisito fundamental
 - A comunicação deverá ser feita entre o frontend e o brackend conforme as requisições, como cadastro de usuário e login, também deverá manter o usuário logado por até 10 minutos, assim controlando se o usuário está logado, ou seja, após efetuado o login. Será feito um teste para a página ser recarregada com um F5 ou Atualizar e deverá apresentar a página Home com os dados do usuário logado.
 - Após 10 minutos de inatividade o usuário será deslogado e deverá apresentar a página de Login
-
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 INFOS:
+
+# Você tem que ter o Node.js já instalado em sua máquina, caso você não tenha, pode instalar nesse link: https://nodejs.org/en/
+# Você tem que instalar o MongoDB se quiser emular o mesmo banco de dados, caso você não tenha, pode instalar nesse link: https://www.mongodb.com/
 
 # Como rodar o projeto, tanto na parte de instalação de depêndencias quanto para rodar a build:
   Utilize os comandos:
