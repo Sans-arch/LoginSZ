@@ -18,7 +18,7 @@
 Imagens ilustrativas do Mongo:
 
     
-[Imgur](https://i.imgur.com/Y4iSKNd.png)
+![InstalandoMongoDB!](https://i.imgur.com/Y4iSKNd.png)
 
 
 Link com ensinamentos de como configurar variáveis de ambiente para o MongoDB em sua máquina:
