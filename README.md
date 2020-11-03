@@ -27,5 +27,18 @@ Necessitamos para um novo desenvolvimento um sistema que possuirá uma tela de L
 
 
 INFOS:
+
+# Como rodar o projeto, tanto na parte de instalação de depêndencias quanto para rodar a build:
+  Utilize os comandos:
+  
+    - npm i
+    Esse comando irá instalar todas as depêndencias de forma igualitária ao do repositório.
+    
+    - npm run dev
+    Esse comando irá rodar o projeto no aplicativo "nodemon", o que irá facilitar o desenvolvimento. 
+    
+    - mongod
+    Esse comando irá startar o MongoDB, porém você já tem que ter o MongoDB instalado previamente em sua máquina e ter fornecido a ele váriaveis de ambiente.
+
 - Faça login com o usuário: neymar
 - senha: 1234
