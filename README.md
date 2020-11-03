@@ -25,6 +25,16 @@ Imagens ilustrativas do Mongo:
 Link com ensinamentos de como **configurar variáveis de ambiente** para o MongoDB em sua máquina:
   https://pablojuancruz.wordpress.com/2014/09/03/configurando-ambiente-mongodb-no-windows/
   
+  ![VariaveisAmbientePre1](https://i.imgur.com/94h3hYj.png)
+  
+  ![VariaveisAmbientePre](https://i.imgur.com/EnYaKVj.png)
+  
+  ![VariaveisAmbiente](https://i.imgur.com/3DsT5EQ.png)
+  
+  ![VariaveisAmbiente2](https://i.imgur.com/60bx9Pr.png)
+  
+  ![VariaveisAmbiente3](https://i.imgur.com/2jxdLBO.png)
+  
   Todos os créditos ao autor **Pablo Juan Cruz**.
     
     
