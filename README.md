@@ -29,7 +29,7 @@ Necessitamos para um novo desenvolvimento um sistema que possuirá uma tela de L
 INFOS:
 
 # Você tem que ter o Node.js já instalado em sua máquina, caso você não tenha, pode instalar nesse link: https://nodejs.org/en/
-# Você tem que instalar o MongoDB se quiser emular o mesmo banco de dados, caso você não tenha, pode instalar nesse link: https://www.mongodb.com/
+# Você tem que instalar o MongoDB se quiser emular o mesmo banco de dados, caso você não tenha, pode instalar nesse link: https://www.mongodb.com/try/download/community
 
 # Como rodar o projeto, tanto na parte de instalação de depêndencias quanto para rodar a build:
   Utilize os comandos:
@@ -42,6 +42,14 @@ INFOS:
     
     - mongod
     Esse comando irá startar o MongoDB, porém você já tem que ter o MongoDB instalado previamente em sua máquina e ter fornecido a ele váriaveis de ambiente.
+    
+Imagens ilustrativas do Mongo:
+
+    
+    
+    
+    
+    
     
 Cabe lembrar que são 2 projetos distintos, o Frontend é separado do Backend, então você provavelmente terá que rodar essa série de comandos em cada um dos projetos.
 
