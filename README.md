@@ -46,9 +46,7 @@ INFOS:
 Imagens ilustrativas do Mongo:
 
     
-    
-    
-    
+[Imgur](https://i.imgur.com/Y4iSKNd.png)
     
     
 Cabe lembrar que são 2 projetos distintos, o Frontend é separado do Backend, então você provavelmente terá que rodar essa série de comandos em cada um dos projetos.
