@@ -28,10 +28,10 @@ Necessitamos para um novo desenvolvimento um sistema que possuirá uma tela de L
 
 INFOS:
 
-# Você tem que ter o Node.js já instalado em sua máquina, caso você não tenha, pode instalar nesse link: https://nodejs.org/en/
-# Você tem que instalar o MongoDB se quiser emular o mesmo banco de dados, caso você não tenha, pode instalar nesse link: https://www.mongodb.com/try/download/community
+### Você tem que ter o Node.js já instalado em sua máquina, caso você não tenha, pode instalar nesse link: https://nodejs.org/en/
+### Você tem que instalar o MongoDB se quiser emular o mesmo banco de dados, caso você não tenha, pode instalar nesse link: https://www.mongodb.com/try/download/community
 
-# Como rodar o projeto, tanto na parte de instalação de depêndencias quanto para rodar a build:
+## Como rodar o projeto, tanto na parte de instalação de depêndencias quanto para rodar a build:
   Utilize os comandos:
   
     - npm i
