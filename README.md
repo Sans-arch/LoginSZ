@@ -28,7 +28,7 @@ Link com ensinamentos de como **configurar variáveis de ambiente** para o Mongo
   Todos os créditos ao autor **Pablo Juan Cruz**.
     
     
-Cabe lembrar que são 2 projetos distintos, o Frontend é separado do Backend, então você provavelmente terá que rodar essa série de comandos em cada um dos projetos.
+> Cabe lembrar que são 2 projetos distintos, o Frontend é separado do Backend, então você provavelmente terá que rodar essa série de comandos em cada um dos projetos.
 
 - Faça login com o usuário: neymar
 - senha: 1234
