@@ -1,4 +1,4 @@
-INFOS:
+# Instruções de como instalar/rodar o projeto em sua máquina :vulcan_salute:
 
 ### Você tem que ter o Node.js já instalado em sua máquina, caso você não tenha, pode instalar nesse link: https://nodejs.org/en/
 ### Você tem que instalar o MongoDB se quiser emular o mesmo banco de dados, caso você não tenha, pode instalar nesse link: https://www.mongodb.com/try/download/community
