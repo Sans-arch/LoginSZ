@@ -39,6 +39,8 @@ INFOS:
     
     - mongod
     Esse comando irá startar o MongoDB, porém você já tem que ter o MongoDB instalado previamente em sua máquina e ter fornecido a ele váriaveis de ambiente.
+    
+Cabe lembrar que são 2 projetos distintos, o Frontend é separado do Backend, então você provavelmente terá que rodar essa série de comandos em cada um dos projetos.
 
 - Faça login com o usuário: neymar
 - senha: 1234
